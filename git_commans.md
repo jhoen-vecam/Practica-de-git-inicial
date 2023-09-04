@@ -14,7 +14,7 @@ git branch: muestra una lista de las ramas en un repositorio y resalta la rama e
 
 git add: se utiliza para agregar archivos al área de preparación (staging area) antes de realizar una confirmación (commit) en un repositorio
 
-git commit: se utiliza para confirmar los cambios realizados en un repositorio local, creando un nuevo punto en la historia del repositorio
+git commit: se utiliza para confirmar los cambios realizados en un repositorio local, creando un nuevo punto en la historia del repositorio.
 
 git push: se utiliza para enviar los cambios locales en un repositorio a un repositorio remoto
 
